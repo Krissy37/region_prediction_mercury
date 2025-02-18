@@ -1,7 +1,9 @@
 This is a region prediction tool for Mercury's (magnetic) environment. 
 
 Planetary radius: 2440 km 
+
 Magnetopause: Shue-Model, depends on r_hel and di, parameters like in Pump et al. (2024) 
+
 Bow Shock: conic section from Winslow et al. (2013). Does NOT depend on r_hel or di (yet).
 
 # Input: 
@@ -11,6 +13,7 @@ heliocentric distance r_hel in AU
 
 # output: 
 number for each coordinate 
+
 1: Mercury (inside planet) 
 2: Magnetosphere
 3: Magnetopause
