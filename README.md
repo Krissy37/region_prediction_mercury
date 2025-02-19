@@ -14,7 +14,7 @@ heliocentric distance r_hel in AU
 
 (optional: Disturbance Index di (value between 0 and 100)) 
 
-# output: 
+# Output: 
 number for each coordinate 
 
 1: Mercury (inside planet) 
