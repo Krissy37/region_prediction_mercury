@@ -1,4 +1,5 @@
 This is a region prediction tool for Mercury's (magnetic) environment. 
+This tool can only estimate average locations of boundaries. 
 
 Planetary radius: 2440 km 
 
